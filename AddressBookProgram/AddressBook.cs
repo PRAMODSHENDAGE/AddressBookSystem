@@ -66,5 +66,19 @@ namespace AddressBookProgram
                 }
             }
         }
+        public void DeleteContact(string name)
+        {
+            Contact delete = new Contact();
+            foreach (var contact in contacts)
+            {
+                if (contact.PhoneNumber == name)
+                {
+                    delete = contact;
+                }
+            }
+            contacts.Remove(delete);
+            Console.WriteLine("\nUpadated Contact List");
+            Display();
+        }
     }
 }
