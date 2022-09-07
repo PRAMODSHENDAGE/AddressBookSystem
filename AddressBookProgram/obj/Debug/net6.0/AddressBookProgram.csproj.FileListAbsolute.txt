@@ -1,0 +1,15 @@
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\bin\Debug\net6.0\AddressBookProgram.exe
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\bin\Debug\net6.0\AddressBookProgram.deps.json
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\bin\Debug\net6.0\AddressBookProgram.runtimeconfig.json
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\bin\Debug\net6.0\AddressBookProgram.dll
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\bin\Debug\net6.0\AddressBookProgram.pdb
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.csproj.AssemblyReference.cache
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.AssemblyInfoInputs.cache
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.AssemblyInfo.cs
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.csproj.CoreCompileInputs.cache
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.dll
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\refint\AddressBookProgram.dll
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.pdb
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\AddressBookProgram.genruntimeconfig.cache
+D:\RFP\PP\AddressBookSystem\AddressBookProgram\obj\Debug\net6.0\ref\AddressBookProgram.dll
